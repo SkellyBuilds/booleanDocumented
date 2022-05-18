@@ -3,8 +3,8 @@
  #### *Note: There are different catagories in this documentation so please pick the correct one you want to use*
  
  ### Pick which catagory do you want to go to start using Boolean!
-#### • How to start up Boolean and get ready to use the Discord bot [Start here](Docs/SetupTutorialBeginner.md)
-#### • How does Boolean even work behind the scenes [Start here](Docs/HowDoesBooleanWork.md)
+#### • How to start up Boolean and get ready to use the Discord bot [Start here](SetupTutorialBeginner.md)
+#### • How does Boolean even work behind the scenes [Start here](HowDoesBooleanWork.md)
 
 More documentation coming soon 
 
